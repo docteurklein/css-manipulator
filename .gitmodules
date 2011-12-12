@@ -1,0 +1,15 @@
+[submodule "vendor/css-parser"]
+	path = vendor/css-parser
+	url = https://github.com/sabberworm/PHP-CSS-Parser.git
+[submodule "vendor/Finder"]
+	path = vendor/Finder
+	url = https://github.com/symfony/Finder.git
+[submodule "vendor/class-loader"]
+	path = vendor/class-loader
+	url = https://github.com/symfony/ClassLoader.git
+[submodule "vendor/Symfony/Component/Finder"]
+	path = vendor/Symfony/Component/Finder
+	url = https://github.com/symfony/Finder.git
+[submodule "vendor/Symfony/Component/ClassLoader"]
+	path = vendor/Symfony/Component/ClassLoader
+	url = https://github.com/symfony/ClassLoader.git

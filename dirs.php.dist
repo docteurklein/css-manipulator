@@ -1,0 +1,5 @@
+<?php
+
+$dirs = array(
+    __DIR__.'/tests',
+);
